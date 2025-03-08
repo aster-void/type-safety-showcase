@@ -1,0 +1,6 @@
+{
+  "name": "types",
+  "dependencies": {
+    "valibot": "^1.0.0-rc.3"
+  }
+}

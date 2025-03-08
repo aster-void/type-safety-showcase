@@ -1,0 +1,8 @@
+{
+  "name": "types",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  },
+  "type": "module",
+  "workspaces": ["server", "client", "types"]
+}

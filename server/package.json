@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "express": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.2.4"
+  }
+}
